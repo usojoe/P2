@@ -19,8 +19,10 @@
        
         <h1>P2 - xkcd Password Generator</h1>
       <p>Apparently you have been making your passwords too complicated. 
-</p><p>This comic strip below explains why the passwords you've created in the past are both difficult to remember and easy for computers to hack.</p><p>Let's fix that by generating a new, simpler password, shall we?</p>
+</p><p>This comic strip below explains why the passwords you've created in the past are both difficult to remember and easy for computers to hack.</p>
       <a href="http://imgs.xkcd.com/comics/password_strength.png" target="_blank"><img src="http://imgs.xkcd.com/comics/password_strength.png"></a>
+      
+      <p>Let's fix that by generating a new, simpler password, shall we?</p><br>
         
           <form method='POST' action='index.php'>
             <div class="form-group">
@@ -30,7 +32,7 @@
                 ?>
               </div>
               <label for="numberOfWords">First, Choose The Number of Words You Want in Your Password</label><br><br>
-              <input name="numberOfWords" type="number" class="form-control" id="Number Of Words" placeholder="1,2,3, or 4"> 
+              <input name="numberOfWords" type="number" class="form-control" id="Number Of Words" placeholder="1,2,3, or 4 (Max 4)"> 
                         </div><br>
             <button type="submit" class="btn btn-primary">Create My Unique Individual Password</button>
           </form>
