@@ -5,11 +5,20 @@
  */
 /*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */
 
-.container {
+#container {
 			width:50%;
-			min-width:600px;
 			margin-bottom:50px;
-		}	
+            margin align-content: center;
+            text-align: center;
+}
+#error {
+            font-size: 200%;
+            color: red;
+}
+
+#onlyinput {
+            margin: .40em 0;   
+}
 
 html {
   font-family: sans-serif;
