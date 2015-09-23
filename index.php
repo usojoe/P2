@@ -14,13 +14,13 @@
   </head>
 
   <body>
-       <div wrapper id="container">
+       <div id="container">
         <h1>P2 - xkcd Password Generator</h1>
            
       <p>Apparently you have been making your passwords too complicated. 
 </p><p>This comic strip below explains why the passwords you've created in the past are both difficult to remember and easy for computers to hack.</p>
 
-      <a href="http://imgs.xkcd.com/comics/password_strength.png" target="_blank"><img src="http://imgs.xkcd.com/comics/password_strength.png"></a>
+      <a href="http://imgs.xkcd.com/comics/password_strength.png" target="_blank"><img src="http://imgs.xkcd.com/comics/password_strength.png" alt="comicstrip"></a>
       
       <p>Let's fix that by generating a new, simpler password, shall we?</p><br>
         
