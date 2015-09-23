@@ -31,7 +31,7 @@
                   echo $errorMessage;
                 ?>
               </div>
-              <p>First, Choose The Number of Words You Want in Your Password</p><br><br>
+              <p>First, Choose The Number of Words You Want in Your Password</p><br>
               <input name="numberOfWords" type="number" class="form-control" id="onlyinput" placeholder="1,2,3, or 4 (Max 4)"> 
                         </div><br>
             <button type="submit" class="btn btn-primary">Create My Unique Individual Password</button>
