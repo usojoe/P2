@@ -45,11 +45,6 @@
               ?>
       
             <h3>Thank you for visiting.</h3>
-      
-      
-      <footer class="footer">
-        <p id="footer">&copy; Joseph Lee Produced for CSCI E-15 Sept 22, 2015</p>
-      </footer>
     </div>
       
   </body>
